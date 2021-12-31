@@ -1,2 +1,2 @@
 # django-blog
-Django blog created using Corey Schafer YouTube tutori
+Django blog created using Corey Schafer YouTube tutorial
